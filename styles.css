@@ -1,3 +1,4 @@
+
 .poppins-regular {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -271,5 +272,9 @@ gap: 30px;
     margin: 0 auto;
     max-width: 100%;
     background-color: royalblue;
+}
+.banner-img{
+    max-width: 90%;
+    margin: 0 auto;
 }
 }
