@@ -255,6 +255,9 @@ gap: 30px;
     text-align: center;
 }
 .footer-container{
-    max-width: 80%;
+    max-width: 80%;}
 
+.features-img-container{
+    margin: 0 auto;
+}
 }
