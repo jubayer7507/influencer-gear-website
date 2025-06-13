@@ -228,7 +228,7 @@ padding: 0;
     /* background-color: aqua; */
 }
 .banner-img-container{
-    margin-left: 60px;
+    margin-left: 0px;
 }
 .banner-container .description{
     margin: -20px 0px 20px 0px;
@@ -246,6 +246,10 @@ padding: 0;
 .cards-container{
     grid-template-columns: repeat(1,1fr);
 }
+.card-img{
+ max-width: 90%;
+ margin: 0 auto;
+}
 #features{
 flex-direction: column-reverse;
 gap: 30px;
@@ -259,5 +263,13 @@ gap: 30px;
 
 .features-img-container{
     margin: 0 auto;
+    max-width: 100%;
+    /* background-color: royalblue; */
+
+}
+.features-img{
+    margin: 0 auto;
+    max-width: 100%;
+    background-color: royalblue;
 }
 }
